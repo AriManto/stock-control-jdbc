@@ -15,6 +15,7 @@ public class stockControlJdbc {
     static String user = "admin";
     static String pass = "admin";
 
+    static String pruebaaaa = "Holaaaa estoy probando el branch!";
     static void separador(){
         System.out.println("-------------------------------------------------------------------------------------------");
     }
