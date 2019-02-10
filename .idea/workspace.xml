@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="062155f5-2101-495f-93a6-b940b042f7b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Producto.java" beforeDir="false" />
-    </list>
+    <list default="true" id="062155f5-2101-495f-93a6-b940b042f7b2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/stockControlJdbc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="10" />
+            <state relative-caret-position="1479">
+              <caret line="255" column="1" lean-forward="true" selection-start-line="255" selection-start-column="1" selection-end-line="255" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#mostrarMenu#0;class#stockControlJdbc#0" />
@@ -103,7 +101,27 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stock-control-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stock-control-jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stock-control-jdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stock-control-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549778501026" />
@@ -229,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stockControlJdbc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="10" />
+        <state relative-caret-position="1479">
+          <caret line="255" column="1" lean-forward="true" selection-start-line="255" selection-start-column="1" selection-end-line="255" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#mostrarMenu#0;class#stockControlJdbc#0" />
