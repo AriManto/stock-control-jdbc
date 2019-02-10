@@ -13,7 +13,7 @@
     <session id="-1501576268">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -44,35 +44,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/stockControlJdbc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1479">
-              <caret line="255" column="1" lean-forward="true" selection-start-line="255" selection-start-column="1" selection-end-line="255" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#mostrarMenu#0;class#stockControlJdbc#0" />
-                <element signature="method#crearProducto#0;class#stockControlJdbc#0" />
-                <element signature="method#mostrarResultSet#0;class#stockControlJdbc#0" />
-                <element signature="method#mostrarProductosID#0;class#stockControlJdbc#0" />
-                <element signature="method#seleccionarPorID#0;class#stockControlJdbc#0" />
-                <element signature="method#cambiarValor#0;class#stockControlJdbc#0" />
-                <element signature="method#editarProducto#0;class#stockControlJdbc#0" />
-                <element signature="method#borrarProducto#0;class#stockControlJdbc#0" />
-                <element signature="method#nombreCrec#0;class#stockControlJdbc#0" />
-                <element signature="method#nombreDecr#0;class#stockControlJdbc#0" />
-                <element signature="method#stockCrec#0;class#stockControlJdbc#0" />
-                <element signature="method#stockDecr#0;class#stockControlJdbc#0" />
-                <element signature="method#precioCrec#0;class#stockControlJdbc#0" />
-                <element signature="method#precioDecr#0;class#stockControlJdbc#0" />
-                <element signature="method#ordenarProductos#0;class#stockControlJdbc#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -206,7 +178,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32921347" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
